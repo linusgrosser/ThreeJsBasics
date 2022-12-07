@@ -1,0 +1,14 @@
+{
+  "name": "miniglobe",
+  "version": "1.0.0",
+  "description": "a minimalistic globe with theejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.147.0"
+  }
+}
