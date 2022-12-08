@@ -1,3 +1,9 @@
+//SETUP:
+//npm init
+//npm install parcel -g
+//create html and js files. Link Js to Html (use type module)
+//npm install three
+
 import * as THREE from 'three';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
 
